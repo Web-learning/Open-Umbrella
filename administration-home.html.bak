@@ -1,0 +1,139 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Administration</title>
+  </head>
+  <body class="administration">
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1>The Open Umbrella</h1>
+      </div>
+    </div>
+    <div class="navbar"> <a href="index.html">Home</a> <a href="assessment.html#assessment">Assessment</a>
+      <a href="strategies.html#strategies">T &amp; L Strategies</a> <a href="activities.html#activities">Learning
+        Activities</a> <a href="content.html#content">Content</a> <a href="communication.html#communication">Communication</a>
+      <a href="administration.html#administration" class="onlive">Administration</a>
+      <a href="design.html#design">Design</a> <a href="support.html#support">Support
+        Strategies</a> </div>
+    <div class="main">
+      <h1>Administration</h1>
+      <ul class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="administration.html">Administration</a></li>
+        <li><a href="administration-home.html">Course Homepeage</a></li>
+      </ul>
+      <h2>To Begin - Launching Point</h2>
+      <h3>Course Homepage</h3>
+      <p>The online student cannot size up the situation in the same manner as a
+        student seated in a physical lecture hall or classroom. But first
+        impressions, whether generated in person or online, can be long lasting.
+        The intent of course homepage is to whet student's appetite. This is the
+        opportunity to stimulate interest, while also sending messages about
+        expectations. </p>
+      <p>By using the homepage to introduce the purpose and significance of a
+        course and convey the mindset of the lecturer to the reader,<span style="color: rgb(102, 102, 102); font-family: Roboto, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+          the tone for the entire course can be set. This, according to Lang, </span>“condition(s)
+        student attitudes toward the entire course, the effort they are willing
+        to put into it, and the relationship they will have with you and their
+        peers throughout the semester”. </p>
+      <p>At a glance, the homepage should convey the “shape” of the course and
+        how this fits within student's overall educational experience. Once
+        students have completed reading through the page, they should be
+        convinced about the competence of the lecturer, be able to predict the
+        structure of class and sequence of activities, and know what is required
+        of them.</p>
+      <table class="c162">
+        <tbody>
+          <tr class="c1">
+            <td class="c2 c60" colspan="1" rowspan="1">
+              <p class="c3"><strong> <span class="c8">&nbsp;Formal orientation</span></strong>
+              </p>
+            </td>
+            <td class="c104 c60" colspan="1" rowspan="1">
+              <p class="c3"> <strong><span class="c8">Action orientation</span></strong>
+              </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Course name and number</span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Welcome to [INSERT COURSE NUMBER
+                  AND TITLE]</span> </p>
+            </td>
+          </tr>
+          <tr>
+            <td>Lecturer information</td>
+            <td>Who is [INSERT LECTURER NAME]</td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Course description</span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Questions that will be addressed
+                  in [INSERT COURSE TITLE]</span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Course outcomes </span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">What to expect by the end of the
+                  [INSERT COURSE TITLE]</span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Format and readings</span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Readings, resources and
+                  associated materials</span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3">Pre-requisites &amp; policies</p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Participation, academic
+                  integrity, inclusion and diversity</span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Schedule</span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Dates to note in your
+                  calendar/diary </span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Assessment&nbsp;</span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Marks and grades</span> </p>
+            </td>
+          </tr>
+          <tr class="c1">
+            <td class="c2" colspan="1" rowspan="1">
+              <p class="c3">&nbsp;<span class="c0">Assignments </span> </p>
+            </td>
+            <td class="c104" colspan="1" rowspan="1">
+              <p class="c3"> <span class="c0">Learning activities and weighting</span>
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p><br>
+      </p>
+    </div>
+  </body>
+</html>

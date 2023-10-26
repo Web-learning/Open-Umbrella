@@ -1,0 +1,51 @@
+<STYLE>
+	body {
+	background: lightblue;
+}
+
+.bubble {
+	min-height: 40px;
+	width: 40%;
+	min-width: 200px;
+	background: ivory;
+	display: block;
+	margin: 0 auto;
+	border-radius: 20px;
+	margin-top: 50px;
+	font-size: 24px;
+	text-align: center;
+}
+
+.pointer {
+	height: 40px;
+	width: 40px;
+	background: ivory;
+	margin: 0 auto;
+	transform: rotate(45deg);
+	border-radius: 0 0 12px 0;
+	margin-top: -22px;
+	position: relative;
+	left: calc(0.5vw - 50px);
+}
+
+.blurred {
+	background: gray;
+	filter: blur(20px);
+	position: relative;
+	top: -315px;
+/* 	transform: scale(1.05); */
+	z-index: -1;
+}</STYLE>
+	
+<html><body>
+
+	<div>
+	<div class="bubble">Testing</div>
+	<div class="pointer"></div>
+</div>
+
+<div>
+	<div class="bubble blurred"></div>
+	<div class="pointer blurred"></div>
+</div>
+</body></html>

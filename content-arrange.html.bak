@@ -1,0 +1,103 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Content</title>
+  </head>
+  <body class="content">
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1>The Open Umbrella</h1>
+      </div>
+    </div>
+    <div class="navbar"> <a href="index.html">Home</a> <a href="assessment.html#assessment">Assessment</a>
+      <a href="strategies.html#strategies">T &amp; L Strategies</a> <a href="activities.html#activities">Learning
+        Activities</a> <a href="content.html#content" class="onlive">Content</a>
+      <a href="communication.html#communication">Communication</a> <a href="administration.html#administration">Administration</a>
+      <a href="design.html#design">Design</a> <a href="support.html#support">Support
+        Strategies</a> </div>
+    <div class="main">
+      <h1>Content</h1>
+      <ul class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="content.html">Content </a></li>
+        <li><a href="#">Arrange</a></li>
+      </ul>
+      <h2>To Begin: Arrange Key Texts</h2>
+      Attempt the following steps to sort and manage your course-related content
+      <ol start="1" type="1">
+        <li> Identify an explicit organising scheme which you will arrange the
+          content (e.g. units, modules, topics, themes etc) </li>
+        <li> Create a folder structure on your computer that corresponds to your
+          explicit organizing scheme. Use a common folder naming convention </li>
+        <ol start="1" type="1">
+          <li> <strong>snake case</strong> is the practice of writing compound
+            words or phrases in which the elements are separated with one
+            underscore character (_) and no spaces e.g. Unit_1_basketweaving. </li>
+          <li> <strong>camel case </strong> is the practice of capitalising
+            the first letter of each word in a series and then removing spaces,
+            numbers, underscores, hyphens, and other special characters, e.g.
+            UnitOneBasketWeaving. </li>
+        </ol>
+      </ol>
+      <p> But DON'T file anything away yet </p>
+      <ol start="3" type="1">
+        <li> Identify different types of resources that you will expect students
+          to draw on as they complete course activities and assessment, e.g.: </li>
+        <ul >
+          <li> textbook chapter </li>
+          <li> webpage </li>
+          <li> chapter / section of a web document </li>
+          <li> article from an online periodical </li>
+          <li> online scholarly journal article </li>
+          <li> article from disciplinary and professional associations </li>
+          <li> newspaper article </li>
+          <li> electronic books </li>
+          <li> encyclopaedias and dictionaries </li>
+          <li> data sets </li>
+          <li> multi media (video, audio) </li>
+          <li> graphic data (e.g. interactive maps and other graphic
+            representations of data) </li>
+          <li> online book chapter </li>
+          <li> blog </li>
+          <li> forum or discussion post </li>
+          <li> wiki </li>
+        </ul>
+        <li> Divide the resources into: </li>
+      </ol>
+      <ul type="circle">
+        <li> seminal resources </li>
+        <li> supplementary resources </li>
+        <li> Maybe useful resources </li>
+      </ul>
+      <ul>
+        <li> Rename these resources using a common convention (remember camel or
+          snake case): </li>
+      </ul>
+      <ol start="5" type="2">
+        <li> Look at the seminal resources and craft descriptions that provides
+          meaningful details necessary to guide students relying for all these
+          resources. The description can be short (two or three lines), contain
+          instructions about how students should approach it (watch the video
+          through once, then read chapter two in your textbook and watch it
+          again), offer a time frame for use and describe what you expect
+          students to learn by interacting with it. </li>
+        <li> Be sure to check that these seminal resources can be aligned with
+          course outcomes </li>
+        <li> Place you can go ahead and file these seminal resources within the
+          folder structure that you created in Step 2. </li>
+        <li> Draw a sitemap that visalizes the organizing scheme for content.
+          Print this out, it will help you later as you create learning
+          activities and assessments </li>
+        <li> Decide if and where you want to file the supplementary and other
+          resources </li>
+      </ol>
+      <p> Once you have completed these steps, you should have most of your
+        content. </p>
+    </div>
+    <div class="main">
+      <div>
+        <hr align="left" width="33%" size="1"> </div>
+    </div>
+  </body>
+</html>

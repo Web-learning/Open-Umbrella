@@ -1,0 +1,65 @@
+<html>
+<head>
+    <meta charset="utf-8">
+<link rel="stylesheet" href="stylesheet.css">
+    <title>Administration</title>
+</head>
+<body class="administration">
+      
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>The Open Umbrella</h1>
+      </div>
+</div>
+    <div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="assessment.html#assessment">Assessment</a>
+    <a href="strategies.html#strategies" >T & L Strategies</a>
+    <a href="activities.html#activities" >Learning Activities</a>
+    <a href="content.html#content">Content</a>              
+    <a href="communication.html#communication">Communication</a>              
+    <a href="administration.html#administration" class="onlive">Administration</a>              
+    <a href="design.html#design">Design</a> 
+    <a href="support.html#support">Support Strategies</a>           
+    </div>
+
+    <div class="main">
+<h1>Administration</h1>
+       
+<ul class="breadcrumb">
+<li><a href="index.html">Home</a></li>
+<li><a href="administration.html">Administration</a></li>
+<li><a href="administration-template.html">FAQ</a></li>
+        </ul>        
+<h2>To Consider - Syllabus</h2>
+        
+        <h3>Frequently Asked Questions </h3>
+       <p>A course outline (or syllabus)  is a useful way to pre-empt common problems that might occur during a course.  But a syllabus is often glossed over by inexperienced students because it overwhelming and seems meaningless.
+</p>
+        <p>Syllabus bloat” is a result of putting
+too much information into a course
+upfront.</p>
+        <p>Common questions and standard
+answers is the primary way of
+helping students get the intended
+information as quick as possible.
+This kind of information is known as
+a FAQ (frequently asked questions),
+but can also be called “Help Desk” or
+“Tips and Tricks”. A good FAQ should
+allow students to go to the immediate
+question (thus saving time) and receive
+a consistent answer.</p>
+        <p>FAQ needs to guide and inform the student information needs. Here are five tips to creating an
+effective FAQ:
+<ul><li>Find current problems that students are facing and re-frame these questions as your headings.</li>
+<li>Ensure that questions have a specific focus (write in second person, not third or first).</li>
+<li> Make the tone engaging, but don’t sound like a salesperson.</li>
+        <li>Arrange alphabetically and be consistent with your style (format, highlighting, bullets) so they are easily
+            scanned.</li>
+    <li>Segment the FAQ by audience or type of question.</li>
+        </ul>
+       </div>
+    </body>
+</html>
+

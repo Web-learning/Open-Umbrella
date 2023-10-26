@@ -1,0 +1,170 @@
+<html>
+<head>
+    <meta charset="utf-8">
+<link rel="stylesheet" href="stylesheet.css">
+	 <link rel="stylesheet" href="css/stylesheet.css">
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false
+ }
+
+</script>
+<script src="https://hypothes.is/embed.js" async></script>
+
+    <title>Administration</title>
+</head>
+<body class="administration">
+      
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>The Open Umbrella</h1>
+      </div>
+</div>
+    <div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="assessment.html#assessment">Assessment</a>
+    <a href="strategies.html#strategies" >T & L Strategies</a>
+    <a href="activities.html#activities" >Learning Activities</a>
+    <a href="content.html#content">Content</a>              
+    <a href="communication.html#communication">Communication</a>              
+    <a href="administration.html#administration" class="onlive">Administration</a>              
+    <a href="design.html#design">Design</a> 
+    <a href="support.html#support">Support Strategies</a>           
+    </div>
+
+    <div class="banner"><h1>Administration</h1></div>
+
+    <div class="main">
+
+        <ul class="breadcrumb">
+<li><a href="index.html">Home</a></li>
+<li><a href="activities.html">Administration</a></li>
+        </ul>  
+		
+				<div class="pod">
+ 		
+    <article class="spantwo">
+<h3>Introduction</h3>        
+		<p class="drop-cap">You suddenly realise that the normal pattern of lectures and tutorials can be replicated online. This is possible. But we think that you could do better than simply looking for online equivalents to deliver content. </p>
+		
+		<p>Helping students to understand the 
+differences is a vital and important
+part of preparing a student for working online in their. There’s not necessarily a neat fit between student’s expectations and
+actual university realities.</p>
+			
+	<p>	We think that online's NEW flexibility is wonderful, but concomitantly creates logistical challenges to students as they juggle their routines with an array of approaches that differ between different classes.</p>
+		<blockquote>I am concerned with my students
+cannot find their way around
+administrative systems and academic
+procedures. I know about the many
+logistical challenges associated with staying on track and have seen how
+some lack experience within
+our internal systems. Some students bewilderment affects their learning journey.</blockquote>
+<h3>Keeping organized</h3>
+		<p>Things change for both students and academics when they go online. It's helpful to think about some of the mundane academic details that need to be tracked. </p>
+
+		<ul><li><strong>The place</strong>:What lecture, room, lab, etc or live-stream, lecture capture or website will the students be "ingabiting".</li>
+			<li><strong>The pace</strong>:Is the learning event scheduled at a specific time or can you watch it anytime? Are there changes in assignments due dates</li>
+			<li><strong>The mode</strong>:What are the in-person and remote parts of the class?</li>
+
+		</ul>
+		
+<h3>Schedules</h3>
+		<p>Setting a schedule offers a structure. A simple daily or weekly calendarallows a student to organize their time. </p>
+			</article>
+			<article><h2>Digital learning is different</h2> 
+					<p>Digital learning is different in at least
+three ways – pace, place and mode:
+<ul><li><strong>Pace:</strong> Hybrid learning provides
+the opportunity for students to
+extend their learning beyond
+classroom interactions. Students
+may now do online preparative
+work before class; or those who
+struggle to keep up during a class
+may review online videos, narrated
+PowerPoints or class notes after
+class at their own pace when they
+have time.</li>
+	<li><strong>Place:</strong> Students have greater
+freedom to learn within different
+environments (college or
+university, home, library, public
+transport while commuting, or
+abroad when travelling) as long
+as they have a digital device and
+access to the internet.
+</li>
+	<li><strong>Mode:</strong> Students can be taught
+with a greater variety of media or
+tools and these can be structured
+in a way that is engaging and
+participative. This approach means
+that learning can become more
+student centred.</li>
+				</ul>
+				
+					</article>
+			<article>
+				<p>Students do not necessariliy know what is
+required from them. Expecting them all to step up and manage their admin responsibilities from off campus is difficult. Many security and privacy mechanisms introduce new hurdles.   </p>
+				    <div class="bio_wrapper">
+		
+			<div>
+	<div class="bubble">Probably the biggest challenge facing me
+is my tendency to "multi-task".
+I don't really ever get things done in the available time. </div>
+	<div class="pointer"></div>
+</div>
+
+<div>
+	<div class="bubble blurred"></div>
+	<div class="pointer blurred"></div>
+</div>
+		
+    <div class="bio-wrap">
+	<div class="bio-profile">
+        <img src="images/Avataars/8_avataaars.png" alt="" class="bio_pic_circle"/>
+  
+			</div>
+  <a href="/activities/index.html" class="bio-wrap">
+  <p class="bio-name">Thabiso</p>
+   <p class="bio-title">I've got an app for that. I'll show you how.</p>
+</a>
+</div>
+</div>
+		
+				
+</article>
+		</div>
+
+		
+                <h2>To Begin: Course Home Page </h2>
+     <ul><li>The <a href="administration-home.html">launching point</a> of a course is the homepage. It is intended to introduce a course, describe its purpose and significance. This is where the mindset of the lecturer, their philosophy of teaching and learning, as well as their attitude towards students becomes established. </li>
+         <li><a href="administration-visual.html">Visual Syllabus:</a> </li>
+         <li><a href="administration-template.html">Syllabus Template:</a> </li>
+
+         
+        </ul>
+        <h2>To Consider:Frequently Asked Questions (FAQ)</h2>
+        <ul><li> A course outline (or syllabus) is a useful way to pre-empt common problems that might occur during a course.  But a syllabus is often glossed over by inexperienced students because it overwhelming and seems meaningless. FAQ allows students to jump to immediate questions and answers. </li></ul>
+        
+    <h2>To Try:Times and Schedules</h2>
+        <ul><li>One of the more complex challenges in a further education setting is managing the many
+competing and shifting priorities. A “<a href="administration-schedule.html">course schedule</a>” is a staple element of
+any course. </li></ul>
+        
+        <h2>To Do:</h2>
+        <ul><li> <a href="administration-todo.html">Home Page Detail Checklist</a>:Having read the panel about course administration you might want to use this checklist to consider what you will include in your syllabus or course home page.</li>
+                    </ul>
+   
+    </div>
+<br/>
+	<sup>*</sup>
+<div class="footer">
+	<div class="cc"><img src="images/cc_by_sm.png" alt="CC BY SA "><div class="copyright">&nbsp;&nbsp;<a href="http://www.weblearning.co.za" target="_blank">Weblearning</a> &nbsp;&nbsp;| </div></div> 
+<div class="about">&nbsp;&nbsp; <a href="about/index.html">About</a>&nbsp;&nbsp;| &nbsp;&nbsp; <a href="about/bibliography.html">Bibliography</a> </div>	
+<div class="contact">Last Updated: 24/04/2020</div> 
+    </div>
+</body>
+</html>

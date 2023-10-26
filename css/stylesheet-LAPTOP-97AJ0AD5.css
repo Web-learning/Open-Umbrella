@@ -1,0 +1,185 @@
+body {
+  color: #777;
+  padding: 4em;
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+
+
+.main {
+  padding: 1em 2em;
+  background: #fff;
+  max-width: 1600px;
+  border-radius: 2px 2px 0 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,.9);
+
+}
+
+.pod {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-gap: 1em;
+  grid-auto-flow: dense;
+}
+
+article {
+  padding: 1em;
+  background: #fff;
+  box-shadow:0 5px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px 10px 0 0;
+}
+article:nth-child(5) {
+  grid-column: span 2;
+}
+
+.spantwo{ grid-column: 1/ span 2;}
+
+
+
+
+.blockquote{
+     border-left:2px solid #CCC;
+    margin: 1.5em -8px;
+padding: 1.5 10px;
+    quotes: "\201c""\201d""\2018\2019";
+}
+
+
+
+blockquote:before {
+    color: #f4f4f4;
+    content: open-quote;
+    font-size: 3em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.3em;
+}
+blockquote:after{
+    content: "\2013\2003" attr(cite);
+    display: block;
+text-align: right;
+    font-size:0.7em; 
+    color: #ccc;
+}
+
+
+		.image_article img {
+  			/* Set rules to fill background */
+			max-height: 853px;
+            min-height: 200px;
+			min-width: 100%;
+			
+			/* Set up proportionate scaling */
+			width: 100%;
+			height: auto;
+			
+			/* Set up positioning */
+			position: relative;
+
+			top: 0;
+			left: 0;
+			
+}
+
+
+.bubble {
+	min-height: 40px;
+	width: 40%;
+	min-width: 200px;
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	margin-top: 18px;
+	font-size: 18px;
+	text-align: center;
+	 padding-bottom: 24px;
+	font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+	line-height: 1.5;
+	font-weight: 500;
+	
+}
+
+
+
+.pointer {
+	height: 40px;
+	width: 40px;
+	margin: 0 auto;
+	transform: rotate(45deg);
+	border-radius: 0 0 10px 0;
+	margin-top: -20px;
+	position: relative;
+	left: calc(0.5vw - 50px);
+}
+
+.blurred {
+	background: gray;
+	filter: blur(20px);
+	position: relative;
+	top: -315px;
+/* 	transform: scale(1.05); */
+	z-index: -1;
+}
+
+/*Treatment for avataars, Icons and other circled images*/
+.icon_circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: 3px solid #0d6ebd;
+float: right;
+    margin-right: 10px}
+
+.bio_wrapper {
+margin: 0px auto;
+  width: auto;
+  background: #000;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #ddd;
+  overflow: hidden;
+float: center;
+    z-index: 500;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+.bio-wrap {
+  width: auto;
+  margin: 50px auto 0px;
+  background: #e3e3e3;
+  position: relative;
+  padding: 0px;
+  border-radius: 5px;
+text-decoration-line: none;
+          color: #333;        
+}
+
+
+	
+.bio-profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    display: block;
+    top: -80px;
+    margin: 0 auto;
+    z-index: 100;
+}
+    
+.bio-name {
+      text-align: center;
+      margin-top: -70px;
+      font-size: 25px;
+      font-weight: 600;
+      margin-bottom: 20px;
+}
+    
+.bio-title {
+    text-align: center;
+    font-weight: 400;
+}
+    
+
