@@ -1,0 +1,358 @@
+/*
+Credit: Envato Tuts for guidance on CSS grids and stylesheet 
+https://cdpn.io/tutsplus/fullpage/YGQKAy */
+
+/*Define the grid for each pod*/
+.pod {
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: 32% 65%;	
+	width: 90%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.bar{
+	background-color: #fff;
+	margin: 10px 10px 10px;
+}
+
+/*Define the grid for the wholde site*/
+.band {
+  width: 90%;
+  max-width: 1240px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-gap: 20px;
+}
+
+@media only screen and (min-width: 600px) {
+  .band {
+    grid-template-columns: 1fr 1fr;
+  }  
+}
+
+@media only screen and (min-width: 600px) {
+  .module-A, .package{
+    grid-column: 1/ span 2;
+  }
+    .module-Z{ grid-column-end:  span 2;
+}
+   
+    .module-A h2, .package h2, .module-Z h2{font-size:30px; }
+    
+}
+
+@media only screen and (min-width: 960px) {
+  .band {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+.wrapper {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.wrapper {
+  font: 1em/1.4 Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+
+   */ 
+ 
+/*Styling of columns*/
+.pod{
+width: 90%;
+background-color: black;}
+
+.col {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  padding: 1rem;
+}
+
+.sidebar {
+  flex: 1;
+    }
+
+.main {
+  flex: 3;
+    }
+      
+.columns {
+    display: flex;
+    margin: 0 -10px;
+  font: 1em/1.4 Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+     }
+
+.column {
+ margin: 0 10px;
+    width: 49%;
+}
+     
+.columns {
+  margin: 0 auto;
+  max-width: 800px;
+
+}
+
+.column {
+  background-color: #fff;
+        box-shadow: 0 2px 5px rgba(0,0,0,.1);
+    padding-bottom: 20px;
+
+}
+
+.column header {
+  padding: 10px;
+  background-color: rgb(244,250,244);
+  color: #1b344b;
+}
+
+.wrapper .column header h2 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper .column .body h3 {font-size: 1.0rem;
+  font-weight: bold;}
+     
+.column .body {
+  padding: 10px;
+  font-size: .9rem;
+  color: #757575;
+}
+
+/*Styling of cards*/
+/*Elements for styling cards*/    
+    
+.card {
+    background-color: #fff;
+    text-decoration: none;
+    color: #444;
+box-shadow: 0 4px 5px rgba(0,0,0,.2);
+    display: flex;
+    flex-direction: column;
+        padding: 20px;
+
+    
+    position: relativeactive;
+    top:0;
+    transition:all .1s ease-in; 
+}
+
+ 
+
+.banner-card {
+    padding-bottom: 40%;
+    background-size: cover;
+    background-position: 50% 50%;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
+}
+
+/*Determines how much of the image is seen
+.thumb {
+    padding-bottom: 80%;
+    background-size: cover;
+    background-position: 50% 50%;
+    
+}
+*/
+
+/*Determines how much of the thumb image is seen on the main page*/
+    
+  .thumb-main img{
+  height:150px; 
+  width:100%; 
+  object-fit: cover;
+object-position: 50% 50%;
+  width: 100%;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
+
+}
+
+.icon {padding: 50%;
+ 
+    background-size: cover;
+        background-position: center center;
+}
+    
+.icon_circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  border: 3px solid #ED1c24;
+}
+
+/*.unit_banner {
+    padding-bottom: 40%;
+    background-size: cover;
+    background-position: center center;
+}
+*/    
+.card intro{
+    padding: 20px;
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+    
+    
+.card p { 
+  flex: 1; /* make p grow to fill available space*/
+  line-height: 1.4;
+}
+
+.card span {
+  font-size: 12px;
+  font-weight: bold;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin: 2em 0 0 0;
+}
+ 
+ 
+    .module-z .card {
+    background-color: #f4f4f4;
+    text-decoration: none;
+    color: #000;
+    box-shadow: 0 2px 2px
+    rgba(0,0,0,.8);
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    padding: 2px 0px 2px 0px;
+          
+}
+
+.module-z .card:hover{
+        top:-2px;
+        box-shadow: 0 4px 5px rgba(0,0,0,.8);
+        
+    }    
+
+
+
+    /*Elements below here are stable*/   
+    
+                 
+/* typography */
+
+/*Customise the headings (H1 becomes a dark blue header with a light text.  */
+
+
+    
+h2{
+  font-size: 20px;
+  margin: 0;
+  color: #333;
+}
+
+h3 {
+    position: relative;
+    margin-top: 10px;
+    padding: 10px 10px 0px 11px ;
+    border-bottom:2.0px solid #002E67; /*border on the bottom is narrower*/
+}
+
+h4 {
+    position: relative;
+    padding: 10px 0px 0px 12px ;/**/
+}
+
+h5 {
+	color: #ffffff;
+    background-color: #0c3685;
+    position: relative;
+	border-radius: 4.0px;
+    padding: 5px 0px 0px 12px ;/*Text is smaller but height of the background is higher*/
+
+}
+
+
+
+
+
+/*This controls the avataar box and wrapper*/
+.avatar_wrapper {
+    width: 100%;
+    height: 140px;
+    background: #f4f4f4;
+    border: 1px solid #002E67;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ddd;
+    color: #555;
+    padding:10px;
+}
+
+.avatar {
+    float: right;
+    width: 100%;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}
+
+.comment {
+    float: right;   width: 60%;
+    color: #002e67;
+}
+
+
+.bio_pic_border{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 1px solid #002E67;
+}
+
+p.clear {
+    clear: both;
+}
+
+/*Video discription*/
+
+
+
+
+
+/*This gives the quote a blue background effect*/
+
+blockquote{
+/*    display: block;
+    border-width: 2px 0px ;
+    border-style: solid;
+    padding: 1.5em  ;
+    margin: 1.5em 0;
+    position:relative;*/
+    color: #fff;
+    background: #002E67;
+    border-left:2px solid #ED1c24;
+    margin: 1.5em -8px;
+padding: 1.5 10px;
+    quotes: "\201c""\201d""\2018\2019";
+}
+
+blockquote:before {
+    color: #ED1c24;
+    content: open-quote;
+    font-size: 3em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.3em;
+}
+blockquote:after{
+    content: "\2013\2003" attr(cite);
+    display: block;
+text-align: right;
+    font-size:0.7em; 
+    color: #ccc;
+}

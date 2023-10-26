@@ -1,0 +1,93 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="../stylesheet.css">
+    <link rel="stylesheet" href="/css/css/stylesheet.css">
+    <title>About Weblearning</title>
+  </head>
+  <body class="home">
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1>The Open Umbrella</h1>
+      </div>
+    </div>
+    <div class="navbar"> <a href="../index.html" class="onlive">Home</a> <a href="../assessment.html#assessment">Assessment</a>
+      <a href="../strategies.html#strategies">T &amp; L Strategies</a> <a href="../activities.html#activities">Learning
+        Activities</a> <a href="../content.html#content">Content</a> <a href="../communication.html#communication">Communication</a>
+      <a href="../administration.html#administration">Administration</a> <a href="../design.html#design">Design</a>
+      <a href="../support.html#support">Support Strategies</a> </div>
+    <div class="banner">
+      <h1>About Weblearning </h1>
+    </div>
+    <div class="main">
+      <ul class="breadcrumb">
+        <li> <a href="index.html">Home</a></li>
+        <li>About</li>
+      </ul>
+      <div class="pod">
+        <article class="spantwo">
+          <h2>What does Weblearning offer</h2>
+          <p class="drop-cap">Weblearning helps communities and practitioners
+            within the educational, developmental and training sectors to
+            understand and respond to the challenges of using the web for
+            teaching and learning. Instead of focussing on the traditional
+            organisational needs (advertising, communication, administration),
+            Weblearning attempts to understand what their online users want and
+            need and act accordingly.
+          </p>
+          <h3>Meet Derek Moore</h3>
+          <p>
+            Derek Moore is an enthusiastic and pragmatic educational technology
+            support specialist with 20 years’ experience in the field of
+            technology enabled learning (TEL). His specialties include materials
+            development, instructional design, blended and mobile
+            implementation, support of learning management systems, service and
+            help desk management, facilitation, e-learning strategy and policy
+            development </p>
+          <p>
+            Derek’s pedagogical expertise is practical and hands-on. As an
+            instructional designer, he is comfortable with curriculum mapping,
+            storyboarding, layout, design and development of a virtual, blended
+            or mobile learning environment. As an academic developer, he works
+            alongside subject matter experts, advising and assisting with
+            learning outcomes, formative and summative assessments, quality
+            assurance and evaluation. </p>
+          <p> At an operations level, Derek has managed and delivered on
+            projects intended to shape an emerging digital education landscape.
+            He is adept with change management and have assisted with
+            “jump-starting” important conversations around the broader digital
+            ecology necessary for ongoing and sustainable use of technologies.
+            Functions have included planning, the management of budgets,
+            organizing resources and facilities and supervision of colleagues.
+            In conjunction key role-players he has also been privileged to
+            contribute at an enterprise level towards policies and procedures
+            intended to promote a digital mindset. </p>
+          <h3>Customized Workshops</h3>
+          <p> An ongoing focus of Derek’s, through roles such as educational
+            developer, instructional designer, content developer, consultant,
+            curriculum head and ICT facilitator, teacher and lecturer has been
+            on the development of digital fluencies among amongst educators,
+            school pupils, students, clients, I.D. professionals and academics.
+            Derek is available to run customized workshops. </p>
+        </article>
+        <article>
+          <div class="image_article"> <img src="../images/profile_derek_moore.jpg" alt="Derek Moore">
+          </div>
+          <p>Derek Moore</p>
+        </article>
+        <article> </article>
+      </div>
+    </div>
+    <br>
+    <sup>References:</sup>
+    <div class="footer">
+      <div class="cc"><img src="../images/cc_by_sm.png" alt="CC BY NC ">
+        <div class="copyright">&nbsp;&nbsp;<a href="http://www.weblearning.co.za"
+
+            target="_blank">Weblearning</a> &nbsp;&nbsp;| </div>
+      </div>
+      <div class="about">&nbsp;&nbsp; <a href="../index.html">Back Home</a></div>
+      <div class="contact">tutor@weblearning.co.za</div>
+    </div>
+  </body>
+</html>
