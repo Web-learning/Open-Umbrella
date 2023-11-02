@@ -24,9 +24,9 @@ consists  of three componenets.
 
 ```mermaid
 sequenceDiagram
-    participant dotcom
-    participant iframe
-    participant viewscreen
+    participant OA Course Assessment 
+    participant Field Guide 
+    participant Open Badges
     dotcom->>iframe: loads html w/ iframe url
     iframe->>viewscreen: request template
     viewscreen->>iframe: html & javascript
