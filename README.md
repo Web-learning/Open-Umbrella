@@ -1,5 +1,5 @@
 # Open-Umbrella
-[![DOI](https://zenodo.org/badge/703646900.svg)](https://zenodo.org/doi/10.5281/zenodo.10091447)
+[![DOI](https://zenodo.org/badge/703646900.svg)](https://zenodo.org/doi/10.5281/zenodo.10091447)  [![CC BY 4.0][cc-by-shield]][cc-by]
 
 The open umbrella community (OUC) is an inclusive ICTE comminity that focusses on sharing and promoting open education practices and reseources.
 
