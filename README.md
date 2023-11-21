@@ -23,12 +23,6 @@ Here, colleagues and students (departmental or disciplinary) can collaborate wit
 ```mermaid
 sequenceDiagram
     participant OU Self Assessment 
-    dotcom->>iframe: loads html w/ iframe url
     participant Field Guide 
     participant Open Badges
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
 ```
