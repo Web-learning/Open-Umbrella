@@ -22,10 +22,10 @@ Here, colleagues and students (departmental or disciplinary) can collaborate wit
 
 ```mermaid
 sequenceDiagram
-    participant OA Course Assessment 
+    participant OU Self Assessment 
+    dotcom->>iframe: loads html w/ iframe url
     participant Field Guide 
     participant Open Badges
-    dotcom->>iframe: loads html w/ iframe url
     iframe->>viewscreen: request template
     viewscreen->>iframe: html & javascript
     iframe->>dotcom: iframe ready
