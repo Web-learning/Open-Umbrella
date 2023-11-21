@@ -22,6 +22,7 @@ sequenceDiagram
     participant Field Guide 
     participant Open Badges
 ```
+
 # The Open Umbrella Community (OUC)
 
 The open umbrella community (OUC) is an inclusive ICTE comminity that focusses on sharing and promoting open education practices and reseources.
