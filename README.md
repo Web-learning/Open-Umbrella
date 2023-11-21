@@ -1,7 +1,7 @@
 # Open-Umbrella
 [![DOI](https://zenodo.org/badge/703646900.svg)](https://zenodo.org/doi/10.5281/zenodo.10091447) 
 
-The open umbrella is intended to build up open and consolidate capacity for ICTE
+The open umbrella is intended to build up open educators resevoir of knowledge and consolidate their ICTE ccapacity
 This resource intends to offer a scaffolded portfolio of tools and choices, (a self evaluation tool, field guide and open badges) 
 Where educators can build their unique & balanced course. 
 
