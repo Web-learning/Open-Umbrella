@@ -2,8 +2,7 @@
 [![DOI](https://zenodo.org/badge/703646900.svg)](https://zenodo.org/doi/10.5281/zenodo.10091447) 
 
 ## What is the Open Umbrella(OA)?
-The OA is a framework to arange OER on. 
-It's a mechanism to consolidate capacity for ICTE among academics.
+The “open umbrella” is a professional learning project. It offere a framework to arange course OER. It offere 8 self-defined entry points for improving a courses. it acts as a mechanism to consolidate capacity for ICTE
 The OA intends to offer a scaffolded portfolio of tools and choices, (a self evaluation tool, field guide and open badges) It is a safe and protected space where educators can build their unique & balanced course. 
 
 
