@@ -67,6 +67,23 @@ Here, colleagues and students (departmental or disciplinary) can collaborate wit
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
+|  🗃️     |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
+| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| 01 | Onboard candidates to the Open Umbrella (OU), the self-assessment tool and badges |  | | 
+| 02 | Annotate the eight practice areas on the OU using Hypothes.is |  | | 
+| 03 | Github community and grow your own developer community |  | | 
+| 04 | Community engagement and bring feedback  to a specific (OU) panel  |  | | 
+| 05 | Code Syntheisis openly licensed community materials with comments and research |  | | 
+| 06 | Share and showcase this work and (once reviewed) have it ready to add to the github OU   |  | | 
+| 07 | Workflow  the collaboration workflow with github |  | | 
+| 08 | Be invited to become an OU leader and mentor others in this journey |  | | 
+
+
+![image](https://github.com/Web-learning/Open-Umbrella/assets/17613697/8e29126a-9c2e-4508-a328-be2d11f44368)
+
+
+
+
 ```mermaid
 sequenceDiagram
     participant OA Course Assessment 
