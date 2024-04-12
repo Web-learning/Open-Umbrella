@@ -1,8 +1,21 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-This is the session template. 
-* It needs to be copied and pasted into an [etherpad](https://mensuel.framapad.org/).
-LINK to ZOOM call MUST be tested before the COMMS is sent
-Update dates, times and people below 
+Welcome to the session template. 
+Start: 
+[ ] Before the call, this template needs to to be copied and pasted into the [etherpad](https://mensuel.framapad.org/).
+[] Insert LINK to ZOOM call 
+Lead and host must update dates, times, presentations below
+Links MUST be tested before the COMMS is sent
+Email comms (a day before)
+WhatsApp Comms (10 minutes before) 
+ 
+End:
+After the call is finished, the etherpad needs to be archived.
+Look for export, 
+Open your editor
+Anonomise all partipant details (but save expert, lead and host)
+Select markdown
+Pushed the back as notes into github
+
 
 * These instructions withing the ++++ lines should then be deleted
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -22,7 +35,8 @@ Date:
 Time: 
 Duration: 
 Call lead: 
-Facilitator: 
+Call host: 
+Call expert:
 -----------------------------------------------------------------
 ## Housekeeping  
 This call will be recorded. 
