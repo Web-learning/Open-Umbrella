@@ -1,1 +1,1 @@
-This is the template
+This is the session template. It needs to be copied and pasted into an etherpad https://mensuel.framapad.org/.
