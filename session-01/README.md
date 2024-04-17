@@ -26,31 +26,38 @@ Notepad Link [ETHERPAD](https://mensuel.framapad.org/).
 Call URL [ZOOM]
 Email comms [SUBSTACK] 
 Subscribe to the the [WHATSAPP](https://www.whatsapp.com/channel/0029VaBbKRy5K3zQiafYvp2e) REMINDER Channel
- 
 
-Date: 
-Time: 
-Duration: 
-Call lead: 
-Call host: 
-Call expert:
+**DATE:**: Insert Date 
+**TIME:** Insert Time
+**DURATION:** Insert Duration
+
+**Call lead:** Insert
+**Call host:** Insert
+**Call expert:** Insert
+ 
 -----------------------------------------------------------------
 ## Housekeeping  
 This call will be recorded. 
 You can share share your face (with camera on), or your bio picture (with camera off).
 MUTE when not talking (and we will all probably forget to unmute)
 A non public recording of this call is available on Weblearning's [Youtube](https://www.youtube.com/@weblearning) channel
+
 -----------------------------------------------------------------
 ## Before the call
+- [ ]  Before the call
 
 -----------------------------------------------------------------
 ## During this call, we will:
+- [ ]  During the call
 
 -----------------------------------------------------------------
 ## Milestones for after the call (if everything falls into place)
+- [ ]  After the call
 
 -----------------------------------------------------------------
 ## Closing
+Thanks so much for joining us. These notes will dissapear in 30 days. They have however been filed on github
+
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 Conclusion of the session template. 
@@ -61,7 +68,7 @@ End:
 Look for export, 
 Open your editor
 - [ ] Save linked presntation as a PDF. Session-##-Presentation-## 
-- [ ] Push the etherpad back into github and call it notes-##
+- [ ] Push the etherpad back into github and call it Session-##-Notes-DATE
 - [ ] Push the saved PDF presentation into the same session-## folder.   
 
 * These instructions withing the ++++ lines should then be deleted
