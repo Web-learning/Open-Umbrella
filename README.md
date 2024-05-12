@@ -7,3 +7,6 @@
       width="255px"
   />
 </p>
+<h2 align="center">Seen the #OpenUmbrella ☔(OU)? </h2>
+<p align="center">
+This self evaluation app, field guide & badges will help you to harness the power of 💻 digital in education. 8 panels, each representing a unique starting point or focus area. </p>
